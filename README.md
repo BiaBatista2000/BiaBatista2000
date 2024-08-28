@@ -1,5 +1,5 @@
 <div style="display: inline-block;">
-<img width 100% src ="https://konachan.com/image/538fc2cf84256c90cf0a26db8a70a46c/Konachan.com%20-%20367024%20a.gif" alt="Typing SVG" >
+<img width 100% src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE4a3k3YWFxOG00NWVhbTh0MjFxejVseDNodDRqOHNheDJpN2hiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/92YG8KKSjYhMc/giphy.gif" alt="Typing SVG" >
 <br>
   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&left=true&left=true&random=false&width=500&lines=Hello+my+name+is+Beatriz!;I+am+15+years+old;Welcome+to+my+profile!+😄" alt="Typing SVG">
 <br>
