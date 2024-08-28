@@ -33,7 +33,6 @@ IDEs:
 <br> 
 <div>
 <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção ❣️" alt="Typing SVG">
-<img height=30% width=30% align="left" src=" width 100% src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE4a3k3YWFxOG00NWVhbTh0MjFxejVseDNodDRqOHNheDJpN2hiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/92YG8KKSjYhMc/giphy.gif" alt="Typing SVG" >
-" />
+<img height=30% width=30% align="left" src=" width 100% src ="![HelloKitty](https://github.com/user-attachments/assets/6b6c081d-7b8b-4fba-b4dd-3c3908bf0756)"/>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc6998&section=footer"/>
 </div>
