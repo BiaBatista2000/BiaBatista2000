@@ -1,5 +1,6 @@
 <div style="display: inline-block;">
-<img width 100% src ="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnE4a3k3YWFxOG00NWVhbTh0MjFxejVseDNodDRqOHNheDJpN2hiZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/92YG8KKSjYhMc/giphy.gif" alt="Typing SVG" >
+<img width 100% src ="![Hello Kitty GIF - Hello Kitty Sanrio - Discover   Share GIFs](https://github.com/user-attachments/assets/8b641b33-3409-4164-a528-c8464580bcbd)
+" alt="Typing SVG" >
 <br>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FC6998&width=435&lines=Welcome+to+my+profile!+%E2%9A%9E%F0%9F%8E%80%E3%83%BB%E2%97%A6%E3%83%BB%E2%9A%9F;Hello+my+name+is+Beatriz!+;I+am+15+years+old+" alt="Typing SVG" />
 <br>
