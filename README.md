@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-    <Title>Readme github</Title>
 </head>
 <body>
 <div style="display: inline-block;">
