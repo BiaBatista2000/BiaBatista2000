@@ -2,7 +2,7 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
 </head>
-<body>
+<body style="background-color: fc6998">
 <div style="display: inline-block;">
     <img width="150%" height="150%" src ="https://github.com/user-attachments/assets/8b641b33-3409-4164-a528-c8464580bcbd
     " alt="Typing SVG" >
