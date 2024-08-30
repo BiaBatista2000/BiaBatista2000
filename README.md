@@ -36,7 +36,7 @@
     <br> 
     <div>
     <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fc6998&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção ❣️" alt="Typing SVG">
-    <img align="left" height=30% width=30% align="left" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWt5aXFlazQ4YTdqcDk2cmoyenQ4OTE3bDViaXQ3M28xcDh1cjNxbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/sUIR3O9BFIBna/giphy.gif"/>
+    <img align="left" height=30% width=30% align="left" src="https://media.giphy.com/media/ik0ZEJnTxyEle9LdI8/giphy.gif"/>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc6998&section=footer"/>
     </div>
     </body>
