@@ -4,8 +4,7 @@
 </head>
 <body style="background-color: fc6998">
 <div style="display: inline-block;">
-    <img width="150%" height="150%" src ="https://media.giphy.com/media/YhFzQw0j4lPNu/giphy.gif?cid=790b7611jwr8wibv8842uys4eq07hag9zsj1e0wi1e5uruue&ep=v1_gifs_search&rid=giphy.gif&ct=g
-    " alt="Typing SVG" >
+    <img width="150%" height="150%" src ="https://media.giphy.com/media/YhFzQw0j4lPNu/giphy.gif?cid=790b7611jwr8wibv8842uys4eq07hag9zsj1e0wi1e5uruue&ep=v1_gifs_search&rid=giphy.gif&ct" alt="Typing SVG" >
     <br>
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FC6998&width=435&lines=Welcome+to+my+profile!+%E2%9A%9E%F0%9F%8E%80%E3%83%BB%E2%97%A6%E3%83%BB%E2%9A%9F;Hello+my+name+is+Beatriz!+;I+am+15+years+old+" alt="Typing SVG" />
     <br>
