@@ -32,7 +32,7 @@
     <br> 
     <div>
     <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fc6998&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção ❣️" alt="Typing SVG">
-    <img align="left" height=30% width=30% align="left" src="![R](https://github.com/user-attachments/assets/e88c5dd9-b4cf-41da-9381-b36c50bfc998)
+    <img align="left" height=30% width=30% align="left" src="https://github.com/user-attachments/assets/e88c5dd9-b4cf-41da-9381-b36c50bfc998
 "/>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc6998&section=footer"/>
     </div>
