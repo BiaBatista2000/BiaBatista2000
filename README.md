@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    <Title>Readme github</Title>
+</head>
+<body>
 <div style="display: inline-block;">
     <img width="150%" height="150%" src ="https://github.com/user-attachments/assets/8b641b33-3409-4164-a528-c8464580bcbd
     " alt="Typing SVG" >
@@ -32,7 +38,8 @@
     <br> 
     <div>
     <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fc6998&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção ❣️" alt="Typing SVG">
-    <img align="left" height=30% width=30% align="left" src="https://github.com/user-attachments/assets/e88c5dd9-b4cf-41da-9381-b36c50bfc998
-"/>
+    <img align="left" height=30% width=30% align="left" src="c:\Users\Beatriz Batista\Downloads\R.gif"/>
     <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc6998&section=footer"/>
     </div>
+    </body>
+    </html>
