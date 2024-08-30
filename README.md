@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FC6998&width=435&lines=Welcome+to+my+profile!+%E2%9A%9E%F0%9F%8E%80%E3%83%BB%E2%97%A6%E3%83%BB%E2%9A%9F;Hello+my+name+is+Beatriz!+;I+am+15+years+old+" alt="Typing SVG" />
     <br>
     <img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=BiaBatista2000&show_icons=true&theme=dracula">
-      <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaBatista2000&layout=compact&hide_border=true&bg_color=0000&icon_color=fc6998&text_color=fc6998&title_color=fc6998"/>
+      <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaBatista2000&layout=compact&hide_border=true&bg_color=0000&icon_color=fc6998&text_color=0000&title_color=fc6998"/>
     </div>
     <br>
     <div>
