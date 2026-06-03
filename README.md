@@ -1,42 +1,107 @@
-<!DOCTYPE html>
-<head>
-    <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
-</head>
-<body style="background-color: fc6998">
-<div style="display: inline-block;">
-    <img width="150%" height="150%" src ="https://media.giphy.com/media/YhFzQw0j4lPNu/giphy.gif?cid=790b7611jwr8wibv8842uys4eq07hag9zsj1e0wi1e5uruue&ep=v1_gifs_search&rid=giphy.gif&ct" alt="Typing SVG" >
-    <br>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FC6998&width=435&lines=Welcome+to+my+profile!+%E2%9A%9E%F0%9F%8E%80%E3%83%BB%E2%97%A6%E3%83%BB%E2%9A%9F;Hello+my+name+is+Beatriz!+;I+am+16+years+old+" alt="Typing SVG" />
-    <br>
-    <img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=BiaBatista2000&show_icons=true&theme=dracula">
-            <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofismoura&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=ffff"/>   
+<div align="center">
+
+# 💜 Beatriz Batista
+
+### 💻 Estudante de Desenvolvimento de Sistemas
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+perfil!;Desenvolvimento+de+Sistemas;Tecnologia+e+Inovação;Sempre+Aprendendo+Algo+Novo" />
+
 </div>
-    <br>
-    <div>
-    <br>
-    Aprendendo no momento:
-    </div>
-    <br>
-    <div>
-    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-    </div>
-    <br>
-    <div>
-    IDEs:
-    </div>
-    <div style="display: inline-block;">
-    <br>
-    <img align="center" alt="VsCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-    <img align="center" alt="NetBeans" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
-    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
-    </div>
-    <br> 
-    <div>
-    <img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=fc6998&center=true&center=true&random=false&width=500&lines=Muito+obrigada+pela+atenção!" alt="Typing SVG">
-    <img align="left" height=30% width=30% align="left" src="https://media.giphy.com/media/ik0ZEJnTxyEle9LdI8/giphy.gif"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=fc6998&section=footer"/>
-    </div>
-    </body>
-    </html>
+
+---
+
+## 👩‍💻 Sobre Mim
+
+Sou estudante de **Desenvolvimento de Sistemas**, apaixonada por tecnologia e desenvolvimento de software.
+
+🚀 Sempre em busca de novos conhecimentos e desafios.
+
+---
+
+## 🛠️ Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,figma"/>
+
+</div>
+
+---
+
+## 📚 Atualmente Estudando
+
+```txt
+📖 Desenvolvimento Full Stack
+📖 Banco de Dados
+📖 Estruturas de Dados
+📖 APIs e Integrações
+📖 Boas Práticas de Programação
+```
+
+## 🎯 Objetivos
+
+- Construir projetos inovadores
+- Aprimorar minhas habilidades técnicas
+- Criar um portfólio sólido
+- Crescer profissionalmente na área de tecnologia
+
+---
+
+## 💻 Código da Beatriz
+
+```javascript
+const beatriz = {
+    nome: "Beatriz Batista",
+    area: "Desenvolvimento de Sistemas",
+    linguagens: ["JavaScript", "Python", "Java"],
+    tecnologias: ["HTML", "CSS", "MySQL", "Git", "GitHub"],
+    foco: "Desenvolvimento Web",
+    objetivo: "Transformar ideias em soluções através da tecnologia"
+};
+```
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Sequência de Contribuições
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🌐 Redes
+
+<div align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 Transformando ideias em código e código em soluções.
+
+</div>
