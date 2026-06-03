@@ -1,102 +1,140 @@
 <div align="center">
 
-# Beatriz Batista
-
-### Software Development Student | Web Development | Database Management
-
-<p>
-  <a href="https://github.com/BiaBatista2000">
-    <img src="https://img.shields.io/github/followers/BiaBatista2000?label=Followers&style=flat-square">
-  </a>
-  <a href="https://www.linkedin.com/in/beatriz-batista-943831345">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin">
-  </a>
-</p>
+<img src="./assets/banner.png" width="100%"/>
 
 </div>
 
----
 
-## About Me
+## 👩‍💻 About Me
 
-Development Systems student with a strong interest in software engineering, web development and database solutions.
+Development Systems student with an interest in software engineering, web development and database management.
 
-Currently developing technical skills through academic projects and practical applications involving front-end development, back-end technologies and database management.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,java" />
-</p>
-
-### Frameworks & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,mysql,git,github" />
-</p>
-
-### Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma" />
-</p>
-
-### Additional Knowledge
-
-- Database Modeling
-- SQL
-- Cisco Networking Fundamentals
-- UI/UX Design
-- Prototyping with Figma
-- Visual Design with Canva
-- Version Control with Git
+Currently focused on building practical projects and improving technical skills through modern technologies and collaborative development.
 
 ---
 
-## GitHub Analytics
+## 🚀 Tech Stack
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BiaBatista2000&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaBatista2000&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,laravel,mysql,git,github,vscode,androidstudio,figma"/>
 
 </div>
 
 ---
 
-## Current Focus
+## 💡 Expertise
 
-- Web Application Development
-- Laravel Ecosystem
-- Relational Databases
-- Software Architecture Fundamentals
-- Version Control and Collaboration
+<table>
+<tr>
+<td>
+
+### Front-End
+
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+
+</td>
+
+<td>
+
+### Back-End
+
+- Java
+- Laravel
+- APIs
+- Software Logic
+
+</td>
+
+<td>
+
+### Database
+
+- MySQL
+- Database Modeling
+- SQL
+- Data Management
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Professional Interests
+## 📚 Current Focus
 
-- Software Development
-- Web Technologies
-- Database Systems
-- User Interface Design
-- Technology Innovation
+- Web Development
+- Laravel Applications
+- Database Architecture
+- Software Engineering
+- Cisco Networking
+- UI/UX Design
 
 ---
 
-## Contact
+## 📊 GitHub Analytics
 
-<p align="left">
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BiaBatista2000&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaBatista2000&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiaBatista2000&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BiaBatista2000&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=BiaBatista2000&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
 <a href="https://www.linkedin.com/in/beatriz-batista-943831345">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/BiaBatista2000">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-</p>
+
+</div>
+
+---
+
+<div align="center">
+
+### Transformando ideias em soluções através da tecnologia.
+
+</div>
