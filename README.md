@@ -1,107 +1,102 @@
 <div align="center">
 
-# 💜 Beatriz Batista
+# Beatriz Batista
 
-### 💻 Estudante de Desenvolvimento de Sistemas
+### Software Development Student | Web Development | Database Management
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Bem-vindo(a)+ao+meu+perfil!;Desenvolvimento+de+Sistemas;Tecnologia+e+Inovação;Sempre+Aprendendo+Algo+Novo" />
-
-</div>
-
----
-
-## 👩‍💻 Sobre Mim
-
-Sou estudante de **Desenvolvimento de Sistemas**, apaixonada por tecnologia e desenvolvimento de software.
-
-🚀 Sempre em busca de novos conhecimentos e desafios.
-
----
-
-## 🛠️ Tecnologias
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git,github,vscode,figma"/>
+<p>
+  <a href="https://github.com/BiaBatista2000">
+    <img src="https://img.shields.io/github/followers/BiaBatista2000?label=Followers&style=flat-square">
+  </a>
+  <a href="https://www.linkedin.com/in/beatriz-batista-943831345">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=flat-square&logo=linkedin">
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📚 Atualmente Estudando
+## About Me
 
-```txt
-📖 Desenvolvimento Full Stack
-📖 Banco de Dados
-📖 Estruturas de Dados
-📖 APIs e Integrações
-📖 Boas Práticas de Programação
-```
+Development Systems student with a strong interest in software engineering, web development and database solutions.
 
-## 🎯 Objetivos
-
-- Construir projetos inovadores
-- Aprimorar minhas habilidades técnicas
-- Criar um portfólio sólido
-- Crescer profissionalmente na área de tecnologia
+Currently developing technical skills through academic projects and practical applications involving front-end development, back-end technologies and database management.
 
 ---
 
-## 💻 Código da Beatriz
+## Tech Stack
 
-```javascript
-const beatriz = {
-    nome: "Beatriz Batista",
-    area: "Desenvolvimento de Sistemas",
-    linguagens: ["JavaScript", "Python", "Java"],
-    tecnologias: ["HTML", "CSS", "MySQL", "Git", "GitHub"],
-    foco: "Desenvolvimento Web",
-    objetivo: "Transformar ideias em soluções através da tecnologia"
-};
-```
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,java" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,mysql,git,github" />
+</p>
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma" />
+</p>
+
+### Additional Knowledge
+
+- Database Modeling
+- SQL
+- Cisco Networking Fundamentals
+- UI/UX Design
+- Prototyping with Figma
+- Visual Design with Canva
+- Version Control with Git
 
 ---
 
-## 📊 Estatísticas GitHub
+## GitHub Analytics
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BiaBatista2000&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaBatista2000&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Sequência de Contribuições
+## Current Focus
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Web Application Development
+- Laravel Ecosystem
+- Relational Databases
+- Software Architecture Fundamentals
+- Version Control and Collaboration
 
 ---
 
-## 🌐 Redes
+## Professional Interests
 
-<div align="center">
+- Software Development
+- Web Technologies
+- Database Systems
+- User Interface Design
+- Technology Innovation
 
-<a href="https://github.com/SEU_USUARIO">
-<img src="https://img.shields.io/badge/GitHub-A855F7?style=for-the-badge&logo=github&logoColor=white">
+---
+
+## Contact
+
+<p align="left">
+<a href="https://www.linkedin.com/in/beatriz-batista-943831345">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://github.com/BiaBatista2000">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-### 💜 Transformando ideias em código e código em soluções.
-
-</div>
+</p>
