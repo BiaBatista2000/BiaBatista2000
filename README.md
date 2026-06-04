@@ -1,140 +1,50 @@
-<div align="center">
+<div align="left">
 
 <img src="./assets/banner.png" width="100%"/>
 
-</div>
+# Oi, eu sou a Beatriz Batista 👋
 
+🎓 Estudante de Desenvolvimento de Sistemas na ETEC Zona Leste
 
-## 👩‍💻 About Me
+💻 Tenho interesse em desenvolvimento web com Laravel, aplicativos mobile, banco de dados e redes de computadores.
 
-Development Systems student with an interest in software engineering, web development and database management.
+📍 Atualmente estou desenvolvendo aplicativos mobile, criando aplicações web integradas a bancos de dados e aprofundando meus conhecimentos em redes utilizando as tecnologias da Cisco.
 
-Currently focused on building practical projects and improving technical skills through modern technologies and collaborative development.
-
----
-
-## 🚀 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,laravel,mysql,git,github,vscode,androidstudio,figma"/>
+🚀 Sempre buscando aprender novas tecnologias e aplicar esse conhecimento em projetos práticos.
 
 </div>
 
 ---
 
-## 💡 Expertise
+## Sobre mim
 
-<table>
-<tr>
-<td>
+Meu interesse por tecnologia começou durante o curso de Desenvolvimento de Sistemas na ETEC Zona Leste. Foi lá que tive meus primeiros contatos com programação, desenvolvimento web e banco de dados, áreas que despertaram minha curiosidade e motivaram minha busca constante por aprendizado.
 
-### Front-End
+Atualmente, concentro meus estudos no desenvolvimento de aplicações web com Laravel, na criação de aplicativos mobile, na modelagem e gerenciamento de bancos de dados e em redes de computadores utilizando as ferramentas e conteúdos da Cisco.
 
-- HTML5
-- CSS3
-- JavaScript
-- Responsive Design
-
-</td>
-
-<td>
-
-### Back-End
-
-- Java
-- Laravel
-- APIs
-- Software Logic
-
-</td>
-
-<td>
-
-### Database
-
-- MySQL
-- Database Modeling
-- SQL
-- Data Management
-
-</td>
-</tr>
-</table>
+Busco evoluir continuamente através de projetos práticos, desafios e novas experiências que me permitam ampliar meus conhecimentos e desenvolver minhas habilidades técnicas.
 
 ---
 
-## 📚 Current Focus
+## Tecnologias que utilizo
 
-- Web Development
-- Laravel Applications
-- Database Architecture
-- Software Engineering
-- Cisco Networking
-- UI/UX Design
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=BiaBatista2000&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BiaBatista2000&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BiaBatista2000&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BiaBatista2000&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BiaBatista2000&theme=tokyonight&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/beatriz-batista-943831345">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BiaBatista2000">
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+</p>
 
 ---
 
-<div align="center">
+## Atualmente estudando
 
-### Transformando ideias em soluções através da tecnologia.
-
-</div>
+* Laravel
+* Java
+* MySQL
+* Desenvolvimento Mobile
+* Redes de Computadores (Cisco)
