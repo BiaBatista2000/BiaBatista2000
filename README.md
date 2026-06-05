@@ -2,7 +2,7 @@
 
 <img src="./assets/banner.png" width="100%"/>
 
-# Oi, eu sou a Beatriz Batista 👋
+# Oi, eu sou a Beatriz Batista
 
 🎓 Estudante de Desenvolvimento de Sistemas na ETEC Zona Leste
 
