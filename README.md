@@ -44,7 +44,7 @@ Busco evoluir continuamente através de projetos práticos, desafios e novas exp
 ## Atualmente estudando
 
 * Laravel
-* Java
+* Banco de Dados em conjunto com o Laravel
 * MySQL
 * Desenvolvimento Mobile
 * Redes de Computadores (Cisco)
